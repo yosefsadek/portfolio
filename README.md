@@ -5,6 +5,8 @@ This is my first portfolio  project, built with:
 * CSS
 * JavaScript
 
+> Need to be responsive
+
 ## ScreenShots
 
 **The Homepage**
